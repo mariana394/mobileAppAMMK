@@ -1,4 +1,4 @@
-# ammk
+# ammk_app
 
 A new Flutter application.
 
